@@ -11,5 +11,5 @@ phases:
     
 artifacts:
   files:
-    - /hello-world.py
+    - hello-world.py
   base-directory: /
