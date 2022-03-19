@@ -12,4 +12,4 @@ phases:
 artifacts:
   files:
     - hello-world.py
-  base-directory: */
+  base-directory: 
